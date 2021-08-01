@@ -1,4 +1,4 @@
-package sync;
+package async;
 
 public class BasicSynchronization {
     private String mSharedResource;

@@ -1,4 +1,4 @@
-package sync.printer;
+package async.printer;
 
 public class Client {
     public static void main(String[] args) {

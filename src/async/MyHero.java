@@ -1,4 +1,4 @@
-package sync;
+package async;
 
 /**
  * 1. synchronized 함수가 두개인 MyHero 클래스의 객체를 생성합니다.

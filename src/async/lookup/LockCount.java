@@ -1,6 +1,5 @@
-package sync.lookup;
+package async.lookup;
 
-import java.util.Vector;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 

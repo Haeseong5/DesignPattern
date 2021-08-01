@@ -1,4 +1,4 @@
-package sync.printer;
+package async.printer;
 
 public interface Printer {
     public void print(String str);

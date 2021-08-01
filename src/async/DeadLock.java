@@ -1,4 +1,4 @@
-package sync;
+package async;
 
 public class DeadLock {
     public static Object object1 = new Object();

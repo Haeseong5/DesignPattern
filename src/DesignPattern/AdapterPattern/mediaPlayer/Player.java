@@ -1,4 +1,4 @@
-package DesignPattern.AdapterPattern;
+package DesignPattern.AdapterPattern.mediaPlayer;
 
 import DesignPattern.AdapterPattern.mediaPlayer.MediaPlayer;
 import DesignPattern.AdapterPattern.mediaPlayer.adapter.FormatAdapter;

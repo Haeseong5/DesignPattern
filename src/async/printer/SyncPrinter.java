@@ -1,4 +1,4 @@
-package sync.printer;
+package async.printer;
 
 public class SyncPrinter implements Printer {
     private static Printer printer = null;

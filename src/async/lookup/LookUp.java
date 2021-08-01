@@ -1,4 +1,4 @@
-package sync.lookup;
+package async.lookup;
 
 class Post {
     private int count = 0;
